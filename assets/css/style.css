@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #39b54a;
+  background-color: #098692;
 }
 
 .section-title--story {
@@ -307,7 +307,7 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #006837;
+  color: #098692;
 }
 
 .section-title--border::after {
